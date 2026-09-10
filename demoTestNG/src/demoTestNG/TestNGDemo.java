@@ -6,9 +6,6 @@ import org.testng.annotations.Test;
 
 public class TestNGDemo {		
 	String key="webdriver.chrome.driver";
-	String key="webdriver.chrome.driver";
-	String key="webdriver.chrome.driver";
-	String key="webdriver.chrome.driver";
 	String value="C:\\Users\\anbhu\\Downloads\\chromedriver-win64 (1)\\chromedriver-win64\\chromedriver.exe";
 	WebDriver dr;
 	String url="https://parabank.parasoft.com/parabank/admin.htm";
